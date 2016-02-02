@@ -1,2 +1,2 @@
 # Library
-This an "online bookstore system" project for COEN-6312.
+This is an "online bookstore system" project for COEN-6312.
